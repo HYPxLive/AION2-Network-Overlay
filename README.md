@@ -8,7 +8,7 @@ If an instance feels consistently laggy or has high latency, click **Reconnect**
 
 Multi-second interruptions in server updates can recur after a reconnect. Fixing the underlying server issue requires a change from NCSOFT.
 
-## Run the exe directly
+## Run the .exe directly
 
 Download the file **AION2 Network Overlay.exe**, save it anywhere you want and double-click **AION2 Network Overlay.exe**. Approve the Windows administrator prompt. Windows 10 and 11 x64 need no separate runtime or installer.
 
