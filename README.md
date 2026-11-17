@@ -8,9 +8,9 @@ If an instance feels consistently laggy or has high latency, click **Reconnect**
 
 Multi-second interruptions in server updates can recur after a reconnect. Fixing the underlying server issue requires a change from NCSOFT.
 
-## Run
+## Run the exe directly
 
-Extract the Windows x64 release and double-click **AION2 Network Overlay.exe**. Approve the Windows administrator prompt. Windows 10 and 11 x64 need no separate runtime or installer.
+Download the file **AION2 Network Overlay.exe**, save it anywhere you want and double-click **AION2 Network Overlay.exe**. Approve the Windows administrator prompt. Windows 10 and 11 x64 need no separate runtime or installer.
 
 **Receive Gap** shows a pause between incoming game data. **TCP Ping** is the Windows TCP round-trip time. It can stay low when game updates stall. **Socket** shows the local port, and **Connected** resets when AION2 opens a new connection, even on the same server IP.
 
