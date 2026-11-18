@@ -6,7 +6,7 @@ An unofficial Windows overlay and reconnect workaround for lag in individual AIO
 
 If an instance feels consistently laggy or has high latency, click **Reconnect** when it is safe to do so. The overlay closes the current game connection so AION2 can open a fresh one. In my testing over several days, every reconnect I tried during this kind of lag improved responsiveness immediately. I stayed in the same activity each time, including dungeons, Shugo, and Abyss. AION2 controls the reconnect, so those results describe my own sessions.
 
-Multi-second interruptions in server updates can recur after a reconnect. Fixing the underlying server issue requires a change from NCSOFT.
+Multi-second interruptions in server updates can still recur after a reconnect and this overlay cannot fix them. Fixing the underlying server issue requires a change from NCSOFT.
 
 ## Run the .exe directly
 
