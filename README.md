@@ -2,6 +2,8 @@
 
 An unofficial Windows overlay and reconnect workaround for lag in individual AION2 instances. It shows the server IP, the current socket, the longest recent gap between incoming game data, TCP ping, and two minutes of receive-gap history.
 
+Also just for clarity, the fix this overlay introduces CAN also be achieved by using Microsoft programs like TCPView, its just a bit more complicated, which is why I created this program.
+
 ## When Reconnect helps
 
 If an instance feels consistently laggy or has high latency, click **Reconnect** when it is safe to do so. The overlay closes the current game connection so AION2 can open a fresh one. In my testing over several days, every reconnect I tried during this kind of lag improved responsiveness immediately. I stayed in the same activity each time, including dungeons, Shugo, and Abyss. AION2 controls the reconnect, so those results describe my own sessions.
